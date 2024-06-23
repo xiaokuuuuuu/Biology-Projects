@@ -10,6 +10,11 @@
 [github官方帮助文档](https://docs.github.com/zh/get-started/start-your-journey/downloading-files-from-github)
 <br><br>
 ## 文件打开方式
-1. ai、eps与svg文件是矢量图文件，可通过矢量图编辑器编辑，如PPT、Illustrator；有的eps为数学公式文件，可通过MathType打开编辑<br>
-2. kdx文件是化学式绘制工程文件，可通过KingDraw进行编辑
+|拓展名|文件类型|打开方式（参考）|备注|
+|:----:|:----:|:----:|:----|
+|ai|矢量图绘制工程文件|Adobe Illustrator|可编辑|
+|eps,svg|矢量图文件|Adobe Illustrator,PPT||
+|kdx|化学式绘制工程文件|KingDraw||
+|opju|Origin绘图工程文件|Origin||
+
 <br><br>
