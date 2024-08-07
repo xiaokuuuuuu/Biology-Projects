@@ -1,5 +1,7 @@
 # 《生物学解构》开源项目说明文档
 本仓库提供《生物学解构》对外开源所有项目。
+<br>
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 <br><br>
 ## 开源许可
 《生物学解构》所有开源项目均在MIT协议的基础上进行开源，使用者可查看主目录下LICENSE文件阅读许可。
